@@ -1,0 +1,25 @@
+Job Description :
+This is a full-time remote role for a Frontend Developer. The Frontend Developer will be responsible for developing user interfaces, implementing responsive web designs, and collaborating with back-end developers to ensure seamless web development. Daily tasks will include coding, testing, and debugging frontend applications, as well as optimizing web designs for performance and usability.
+
+Role and Responsibility :
+Role & responsibilities
+
+Proficiency in Front-End Development and Responsive Web Design
+Experience in Back-End Web Development
+General knowledge of Software Development and Web Development
+Excellent problem-solving and analytical skills
+Strong teamwork and communication skills
+Ability to work independently and remotely
+Bachelor's degree in Computer Science, Information Technology, or related field
+Experience in the software development industry is a plus
+
+REQUIRED SKILLS: 
+
+·       Experience with Java development
+
+·       Experience in any of these databases: PostgreSQL
+
+·       Solid understanding of Micro service-based solutions/architectures.
+
+   Github
+·       Ability to quickly grasp concepts, analyze problems and provide innovative solutions.
