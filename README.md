@@ -107,4 +107,5 @@ resume_matcher/
 * **Weights:** The `WEIGHT_REQUIRED_SKILLS` and `WEIGHT_GENERAL_SIMILARITY` constants in `matcher.py` can be adjusted to fine-tune the importance of explicit skill matching versus general textual relevance.
 * **Resume Optimization:** To achieve higher scores, it is highly recommended to explicitly include the "required skills" from the job description directly within your resumes.
 
-**Remember to replace `https://github.com/your-username/Resume-Matcher.git` with the actual URL of your GitHub repository.**
+**Note:
+Remember to replace `https://github.com/your-username/Resume-Matcher.git` with the actual URL of your GitHub repository.**
