@@ -81,15 +81,25 @@ Follow these instructions to set up and run the Resume Matcher on your local mac
 
 ## Project Structure
 resume_matcher/
+
 ├── data/
+
 │   ├── job_description.txt
+
 │   ├── NAYANA UPPIN DO RESUME.pdf
+
 │   └── ... (your other resumes)
+
 ├── main.py             # Main script to run the matching process
+
 ├── parser.py           # Handles parsing of job descriptions and resumes
+
 ├── matcher.py          # Implements the scoring logic (TF-IDF, skill matching)
+
 ├── utils.py            # Utility functions (e.g., text extraction from files)
+
 ├── requirements.txt    # Lists all necessary Python packages
+
 └── README.md           # This file!
 ## Customization
 
